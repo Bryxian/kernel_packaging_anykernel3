@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ReGrass Kernel by skyWizard
+kernel.string=SultanKernel by Bryxian
 do.devicecheck=0
 do.modules=0
 do.systemless=1
@@ -39,7 +39,7 @@ PATCH_VBMETA_FLAG=auto;
 
 # boot install
 split_boot;
-ui_print "- Installing ReGrass Kernel";
+ui_print "- Installing SultanKernel";
 flash_boot;
 ## end boot install
 
