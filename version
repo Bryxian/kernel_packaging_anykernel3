@@ -1,15 +1,14 @@
-****************************************************
- RE ____                   _  __                    _
-   / ___|_ __ __ _ ___ ___| |/ /___ _ __ _ __   ___| |
-  | |  _| '__/ _` / __/ __| ' // _ \ '__| '_ \ / _ \ |
-  | |_| | | | (_| \__ \__ \ . \  __/ |  | | | |  __/ |
-   \____|_|  \__,_|___/___/_|\_\___|_|  |_| |_|\___|_|
 *****************************************************
-Source    : Based on A515F_EUR_S source code 
- Chipset   : Exynos 9611 with Mali G72 MP3     
+              ____        ____              
+             / __/ __ __ / / /____ ____   
+             _\ \  / // // / __/ _ '/ _ \  
+            /___/  \_,_//_/\__/\_,_/_//_/ 
+*****************************************************
+ Source    : Based on Samsung stock A50 source code 
+ Chipset   : Exynos 9610 with Mali G72 MP3     
  Android   : For OneUI5/Supported AOSP ROMs
- Developer : skyWizard (@Bryxian)
- Support   : Exynos9611-Revived (https://discord.gg/acTGbupPr)
+ Developer : Bryxian (@Bryxian)
+ Support   : Exynos 9611-Revived  (bit.ly/4eOM07C)
 *****************************************************
                  CLEAN AND STABLE KERNEL         
 *****************************************************
